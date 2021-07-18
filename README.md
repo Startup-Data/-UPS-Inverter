@@ -1,6 +1,6 @@
 # DIY UPS Inverter
 
-## This Project has had some parts like :
+## This Project has some parts like :
 
  1. **Testing some simple 1 phase inverter**, Which Details could be seen [here][1]:
 
